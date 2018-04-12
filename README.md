@@ -30,9 +30,12 @@ From the Inputs menu, create new Input for the data you wish to collect.  Each I
   - The Timeseries Metrics Input collects a pre-defined set of Dynatrace metrics
   
 ## Start Searching
-Once the Splunk Add-on for Dynatrace is installed and configured you can execute searches using: 
+Once the Splunk Add-on for Dynatrace is installed and configured you can execute searches using any of the following searches: 
 ```
 sourcetype="dynatrace:metrics"
+sourcetype="dynatrace:problem"
+sourcetype="dynatrace:entity"
+sourcetype="dynatrace:single-metric"
 ```
 
 ----  
