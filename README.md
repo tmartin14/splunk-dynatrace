@@ -39,7 +39,7 @@ sourcetype="dynatrace:single-metric"
 ```
 
 ## Notes
-1. If you have created a specifc index for the Dynatrace data, you will need to ensure any users that need to view the data have the proper permissions.  This includes any roles for ITSI as well.  
+1. If you have created a specifc index for the Dynatrace data, you will need to ensure any users that need to view the data have the proper permissions.  This includes any roles for ITSI as well such as "itoa_user".  
 2. The Dynatrace App assumes you have created an index named "dynatrace".  If you used a different index you may have to modify the dashboards.
 
 ----  
