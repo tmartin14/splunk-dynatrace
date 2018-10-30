@@ -1,3 +1,11 @@
+# NOTE:    This repo is no longer active nor supported.  
+For current versions and updates please see:
+- Add-On:  https://github.com/timhard/Splunk_TA_Dynatrace/
+- Add-On Builder project:  https://github.com/timhard/Splunk_TA_Dynatrace_AOB/releases
+- Dynatrace App for Splunk:  https://splunkbase.splunk.com/app/4040/
+
+----
+
 # splunk-dynatrace
 Splunk App &amp; Add-On for Dynatrace
 
